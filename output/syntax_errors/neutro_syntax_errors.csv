@@ -1,0 +1,6 @@
+percentage of training data,faulty lines,total amount of tracks,missing B,missing E
+10,1120,98,25,92
+25,851,161,16,74
+50,456,127,2,52
+75,177,156,0,49
+100,150,93,3,52
