@@ -1,6 +1,8 @@
 # TrackGPT 
 
-This repository contains the code for training a GPT model on cell tracking data. The model is based on Andrej Karpathy's NanoGPT (https://github.com/karpathy/nanoGPT) and has been adapted to work with cell tracking datasets. The original repository contains datasets from a preprint paper on cell tracking (available here: https://www.biorxiv.org/content/10.1101/2024.10.21.618803v1 ), which cannot be shared here. However, one cell tracking dataset is included for demonstration purposes.
+This repository contains the code for training a GPT model on cell tracking data. The model is based on Andrej Karpathy's NanoGPT (https://github.com/karpathy/nanoGPT) and has been adapted to work with cell tracking datasets. 
+
+The original repository which my lab journal is based on contains datasets from a preprint on cell tracking (available here: https://www.biorxiv.org/content/10.1101/2024.10.21.618803v1), which cannot be shared here. However, one cell tracking dataset is included for demonstration purposes.
 
 
 
