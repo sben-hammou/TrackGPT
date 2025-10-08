@@ -12,7 +12,7 @@ To train the model, follow these steps:
 
 1. Modify prepare.py file to set the correct directory path for your dataset.
 
-2. Create a config file and change the out-dir, wandb-project, and dataset parameters to match your dataset name. In this example, the datset is called train10-tcell. 
+2. Create a config file and change the out-dir, wandb-project, and dataset parameters to match your dataset name. In this example, the datset is called train-tcell. 
 
 3. Run the prepare.py script as follows: 
 
